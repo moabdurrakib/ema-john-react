@@ -7,3 +7,12 @@
     margin-top: 0 5px 0 5px;
     color: blue;
 }
+
+.shopping-cart{
+    font-size: 15px;
+    background-color: goldenrod;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid gold;
+    border-radius: 5px;
+}
